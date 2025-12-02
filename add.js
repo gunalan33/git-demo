@@ -1,4 +1,5 @@
-let a = 1000;
+let a = 750;
+
 let b = 20;
 let c = 30;
 
